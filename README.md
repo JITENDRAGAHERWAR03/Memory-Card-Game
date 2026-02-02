@@ -1,5 +1,4 @@
-# Memory-Card-Game
-Memory Card Game built with HTML, CSS, JavaScript. Flip cards, match pairs, track moves &amp; time, and restart anytime. Clean UI + responsive layout.
+
 # 🃏 Memory Card Game (HTML, CSS, JavaScript)
 
 A fun **Memory Match Card Game** built using **vanilla HTML, CSS, and JavaScript**.  
@@ -24,7 +23,8 @@ Add a screenshot here after running the project:
 
 ```md
 ![Game Preview](./preview.png)
-🚀 Run Locally
+```
+
 ---
 📁 Project Structure
 ```
@@ -42,6 +42,7 @@ Open index.html in your browser
 
 That’s it ✅
 
+---
 🛠️ Tech Stack
 
 HTML
@@ -50,6 +51,7 @@ CSS
 
 JavaScript (Vanilla)
 
+---
 🧠 How to Play
 
 Click any card to flip it
@@ -62,6 +64,7 @@ If not → they flip back
 
 Match all pairs to win 🎉
 
+---
 🔧 Customization
 
 Want more difficulty?
@@ -69,5 +72,7 @@ Want more difficulty?
 Add more emojis in script.js inside EMOJIS array
 
 Example:
+```
 
 const EMOJIS = ["🍕","🎮","🚀","🐼","🎧","🌟","🍩","🏆","🍔","⚽"];
+```
