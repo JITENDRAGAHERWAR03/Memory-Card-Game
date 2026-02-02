@@ -19,6 +19,15 @@ Flip cards, find matching pairs, track **moves** and **time**, and try to win in
 
 ---
 
+📁 Project Structure
+```
+memory-card-game/
+│── index.html
+│── style.css
+│── script.js
+└── README.md
+```
+
 ## 📸 Preview
 
 Add a screenshot here after running the project:
