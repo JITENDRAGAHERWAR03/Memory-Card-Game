@@ -18,7 +18,14 @@ Flip cards, find matching pairs, track **moves** and **time**, and try to win in
 - ✅ Responsive grid (mobile-friendly)
 
 ---
+## 📸 Preview
 
+Add a screenshot here after running the project:
+
+```md
+![Game Preview](./preview.png)
+🚀 Run Locally
+---
 📁 Project Structure
 ```
 memory-card-game/
@@ -27,10 +34,40 @@ memory-card-game/
 │── script.js
 └── README.md
 ```
+---
 
-## 📸 Preview
+Download or clone the repository
 
-Add a screenshot here after running the project:
+Open index.html in your browser
 
-```md
-![Game Preview](./preview.png)
+That’s it ✅
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript (Vanilla)
+
+🧠 How to Play
+
+Click any card to flip it
+
+Flip another card
+
+If both match → they stay open
+
+If not → they flip back
+
+Match all pairs to win 🎉
+
+🔧 Customization
+
+Want more difficulty?
+
+Add more emojis in script.js inside EMOJIS array
+
+Example:
+
+const EMOJIS = ["🍕","🎮","🚀","🐼","🎧","🌟","🍩","🏆","🍔","⚽"];
